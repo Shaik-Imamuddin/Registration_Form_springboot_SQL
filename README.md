@@ -50,3 +50,5 @@ schema:
 create database studentregdb;
 
 users table will be automatically created by using this entity @Table
+
+Note:change your mysql password in resources -> application.properties
